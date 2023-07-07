@@ -20,5 +20,5 @@ Compatiple with [flutter_webrtc](https://github.com/flutter-webrtc/flutter-webrt
 
 ```podspec
 # s.dependency 'WebRTC-SDK', '104.5112.16'
-s.dependency 'WebRTC-lbc', '115.5790.08'
+s.dependency 'WebRTC-lbc', '116.5845.01'
 ```
