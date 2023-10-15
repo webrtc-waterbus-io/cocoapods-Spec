@@ -11,7 +11,7 @@ source 'https://github.com/webrtc-sdk/Specs.git'
 ``` -->
 
 ```podspec
-pod 'WebRTC-lbc', '=114.5735.08'
+pod 'KaiRTC', '=118.5993.01'
 ```
 
 Compatiple with [flutter_webrtc](https://github.com/flutter-webrtc/flutter-webrtc):
@@ -20,5 +20,5 @@ Compatiple with [flutter_webrtc](https://github.com/flutter-webrtc/flutter-webrt
 
 ```podspec
 # s.dependency 'WebRTC-SDK', '104.5112.16'
-s.dependency 'WebRTC-lbc', '114.5735.08'
+s.dependency 'KaiRTC', '118.5993.01'
 ```
