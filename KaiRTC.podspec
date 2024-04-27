@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 
     spec.name         = "KaiRTC"
-    spec.version      = "122.6261.07"
+    spec.version      = "124.6367.01"
     spec.summary      = "WebRTC pre-compiled library for Darwin x Waterbus."
     spec.description  = <<-DESC
     WebRTC pre-compiled library for Darwin.
@@ -15,7 +15,7 @@ Pod::Spec.new do |spec|
     spec.ios.deployment_target = '12.0'
     spec.osx.deployment_target = '11.0'
 
-    spec.source       = { :http => "https://github.com/webrtcsdk/webrtc-build/releases/download/m122.6261.07/WebRTC.xcframework.zip" }
+    spec.source       = { :http => "https://github.com/webrtcsdk/webrtc-build/releases/download/m124.6367.01/WebRTC.xcframework.zip" }
     spec.vendored_frameworks = "WebRTC.xcframework"
 
     spec.xcconfig = {
